@@ -1,0 +1,45 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Tailwind CSS v4: define design tokens (colors, fonts, spacing, etc.) that become utilities and CSS variables.",
+      "references": [{ "name": "Tailwind CSS — Theme", "url": "https://tailwindcss.com/docs/theme" }]
+    },
+    {
+      "name": "@utility",
+      "description": "Tailwind CSS v4: register a custom utility class.",
+      "references": [{ "name": "Tailwind CSS — Adding custom styles", "url": "https://tailwindcss.com/docs/adding-custom-styles" }]
+    },
+    {
+      "name": "@custom-variant",
+      "description": "Tailwind CSS v4: define a custom variant (e.g. dark, hocus).",
+      "references": [{ "name": "Tailwind CSS — Hover, focus, and other states", "url": "https://tailwindcss.com/docs/hover-focus-and-other-states" }]
+    },
+    {
+      "name": "@variant",
+      "description": "Tailwind CSS v4: apply a variant inside a custom CSS rule.",
+      "references": [{ "name": "Tailwind CSS — Adding custom styles", "url": "https://tailwindcss.com/docs/adding-custom-styles" }]
+    },
+    {
+      "name": "@plugin",
+      "description": "Tailwind CSS v4: load a JS plugin from CSS.",
+      "references": [{ "name": "Tailwind CSS — Plugins", "url": "https://tailwindcss.com/docs/plugins" }]
+    },
+    {
+      "name": "@source",
+      "description": "Tailwind CSS v4: register extra source files for class detection.",
+      "references": [{ "name": "Tailwind CSS — Detecting classes", "url": "https://tailwindcss.com/docs/detecting-classes-in-source-files" }]
+    },
+    {
+      "name": "@reference",
+      "description": "Tailwind CSS v4: import theme/config without emitting CSS, for use with @apply.",
+      "references": [{ "name": "Tailwind CSS — Functions and directives", "url": "https://tailwindcss.com/docs/functions-and-directives" }]
+    },
+    {
+      "name": "@apply",
+      "description": "Tailwind CSS: inline utility classes into a CSS rule.",
+      "references": [{ "name": "Tailwind CSS — @apply", "url": "https://tailwindcss.com/docs/functions-and-directives#apply-directive" }]
+    }
+  ]
+}
